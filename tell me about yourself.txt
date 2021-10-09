@@ -1,1 +1,5 @@
  Tell me about yourself?
+ 
+ #riyac31
+ 
+ I am Riya Choudhary and i am a 3rd year, computer science B.Tech student. I like coding in c++ and i have knowledge abot c, html,css,javascript, API, sql, data structures. I enjoy coding because it makes my thinking grow and helps me concentrate. I want to become a software developer. I have interest in full stack developmet and i do some extra curri-cular activities like singing. 
